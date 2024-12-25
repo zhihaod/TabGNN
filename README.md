@@ -26,7 +26,6 @@ TabGNN
 - Employs Information Gain (IG) and Mutual Information (MI) to define feature relationships.
 - Provides configurable graph construction strategies.
 - Outputs interpretable and compact graph representations.
-- Supports various machine learning tasks with enhanced feature modeling.
 
 ## Installation
 
