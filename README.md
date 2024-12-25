@@ -65,7 +65,7 @@ TabGNN
 - Modify `config.json` to adjust the parameters for graph construction, dataset paths, and other project settings.
 
 ## Dependencies
-- Python 3.6+
+- Python 3.11
 - Required libraries are listed in `requirements.txt`.
 
 
