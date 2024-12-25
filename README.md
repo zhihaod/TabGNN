@@ -45,7 +45,7 @@ TabGNN
 ## Usage
 
 ### Running the Project
-   ```
+
 
 1. Build the comprehensive network using:
    ```bash
@@ -54,6 +54,7 @@ TabGNN
 2. Use the `run.sh` script to run the TabGNN:
    ```bash
    bash run.sh
+   ```
 ### Input Data
 - Place your dataset files in the `data/` directory. Ensure the format aligns with the configurations in `config.json`.
 
