@@ -1,0 +1,10 @@
+Feature1,Feature2,IG,MutualInfo
+Pregnancies,Glucose,0.121832634,0.397926744
+Pregnancies,BloodPressure,0.124468471,0.223318567
+Pregnancies,BMI,0.109658126,0.286997965
+Pregnancies,DiabetesPedigreeFunction,0.100138088,0.222523898
+Pregnancies,Age,0.1190241,0.302936984
+Glucose,BloodPressure,0.101176313,0.343840259
+SkinThickness,DiabetesPedigreeFunction,0.100766807,0.210098002
+BMI,Age,0.106651914,0.335624377
+DiabetesPedigreeFunction,Age,0.111079,0.285097434

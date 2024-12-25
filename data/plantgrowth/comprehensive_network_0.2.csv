@@ -1,0 +1,6 @@
+Feature1,Feature2,IG,MutualInfo
+Sunlight_Hours,Water_Frequency,0.246291416,0.298817455
+Sunlight_Hours,Fertilizer_Type,0.283337369,0.419465671
+Sunlight_Hours,Temperature,0.633195835,0.774559047
+Sunlight_Hours,Humidity,0.665329255,0.818550162
+Temperature,Humidity,0.499774102,0.69029667

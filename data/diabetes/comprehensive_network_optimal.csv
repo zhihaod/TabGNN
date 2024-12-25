@@ -1,0 +1,11 @@
+Feature1,Feature2
+Pregnancies,BloodPressure
+Pregnancies,Glucose
+Pregnancies,Age
+DiabetesPedigreeFunction,Age
+Pregnancies,BMI
+BMI,Age
+Glucose,BloodPressure
+SkinThickness,DiabetesPedigreeFunction
+Pregnancies,DiabetesPedigreeFunction
+Glucose,Age

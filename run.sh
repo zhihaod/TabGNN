@@ -1,0 +1,1 @@
+python src/main.py diabetes plantgrowth > output.log 2>&1

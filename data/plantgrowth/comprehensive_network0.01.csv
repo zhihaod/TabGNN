@@ -1,0 +1,16 @@
+Feature1,Feature2,IG,MutualInfo
+Soil_Type,Sunlight_Hours,0.0,0.0
+Soil_Type,Water_Frequency,0.0,0.0
+Soil_Type,Fertilizer_Type,0.0,0.0
+Soil_Type,Temperature,0.0,0.0
+Soil_Type,Humidity,0.0,0.0
+Sunlight_Hours,Water_Frequency,0.0,0.0
+Sunlight_Hours,Fertilizer_Type,0.0,0.0
+Sunlight_Hours,Temperature,0.0,0.0
+Sunlight_Hours,Humidity,0.0,0.0
+Water_Frequency,Fertilizer_Type,0.0,0.0
+Water_Frequency,Temperature,0.0,0.0
+Water_Frequency,Humidity,0.0,0.0
+Fertilizer_Type,Temperature,0.0,0.0
+Fertilizer_Type,Humidity,0.0,0.0
+Temperature,Humidity,0.0,0.0

@@ -1,0 +1,16 @@
+Feature1,Feature2
+Sunlight_Hours,Humidity
+Sunlight_Hours,Temperature
+Temperature,Humidity
+Sunlight_Hours,Fertilizer_Type
+Sunlight_Hours,Water_Frequency
+Fertilizer_Type,Humidity
+Fertilizer_Type,Temperature
+Soil_Type,Humidity
+Soil_Type,Sunlight_Hours
+Soil_Type,Temperature
+Water_Frequency,Humidity
+Water_Frequency,Temperature
+Soil_Type,Fertilizer_Type
+Soil_Type,Water_Frequency
+Water_Frequency,Fertilizer_Type

@@ -1,0 +1,16 @@
+Feature1,Feature2,IG,MutualInfo
+Soil_Type,Sunlight_Hours,0.250027687,0.414095784
+Soil_Type,Water_Frequency,0.031312856,0.051388902
+Soil_Type,Fertilizer_Type,0.053960277,0.097122111
+Soil_Type,Temperature,0.227459041,0.394406711
+Soil_Type,Humidity,0.218799311,0.483963453
+Sunlight_Hours,Water_Frequency,0.261300252,0.406682677
+Sunlight_Hours,Fertilizer_Type,0.365781538,0.534249752
+Sunlight_Hours,Temperature,0.568612584,0.860866634
+Sunlight_Hours,Humidity,0.481191979,0.871662501
+Water_Frequency,Fertilizer_Type,0.003539039,0.028015202
+Water_Frequency,Temperature,0.17318495,0.321446948
+Water_Frequency,Humidity,0.184018482,0.430496952
+Fertilizer_Type,Temperature,0.327437199,0.498784986
+Fertilizer_Type,Humidity,0.213115341,0.482679601
+Temperature,Humidity,0.443529065,0.83687916
